@@ -1,0 +1,1 @@
+This program is for entering in the amount of steps you would like to see a single random walk take

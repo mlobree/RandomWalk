@@ -1,0 +1,15 @@
+x = 0
+y = 0
+def drunkenSteps(n):
+    position = 0
+    step = random.normalvariate(0,1)
+    for i in range(0,n):
+        position = position + step
+    x = n
+    y = position
+    print "feet to the right:"
+    print x
+    print "feet up or down"
+    print y
+
+drunkenSteps(16)
